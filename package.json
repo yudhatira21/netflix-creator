@@ -1,0 +1,24 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "Netflix account creator",
+  "main": "index.js",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "faker": "^5.5.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer": "^10.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "yudha tira pamungkas",
+  "license": "ISC"
+}
